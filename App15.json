@@ -7,27 +7,27 @@
  
  
    
-		"API_URL": "https://goflix.zuzutv.info/api/",
+		"API_URL": "https://switchapp.in/api/",
  
-		"ironsource_id": "",
+		"ironsource_id": "11c7e1165",
 
 	 
-		"banner_applovin": "",
-		"native_applovin": "",
-		"interstitial_applovin": "",
+		"banner_applovin": "a67dea0f41505559",
+		"native_applovin": "0c4a831147a96fc2",
+		"interstitial_applovin": "95855b514e149f5a",
 
 
-		"interstitial_admob": "",
-		"banner_admob": "",
-		"native_admob": "",
-		"rewarde_admob": "",
+		"interstitial_admob": "ca-app-pub-/1033173712",
+		"banner_admob": "ca-app-pub-/6300978111",
+		"native_admob": "ca-app-pub-/2247696110",
+		"rewarde_admob": "ca-app-pub-/5224354917",
 
 		 
 		
-		"facebook_interstitial": "",
-		"facebook_native": "",
-		"facebook_banner": "",
-		"facebook_rewarde": ""
+		"facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"facebook_rewarde": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 
 		 
 	}  
